@@ -1,0 +1,2 @@
+# maya-bounding-box-manager
+ 
